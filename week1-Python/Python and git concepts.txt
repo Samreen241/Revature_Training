@@ -1,0 +1,77 @@
+git add
+
+git status
+
+
+git commit -m "sf commit"
+master a91e
+
+
+git push origin master
+
+
+//git pull and git clone differences is imp for interview
+no update in latest version to pull it to be updated is called git pull(updates)-old updated to sync
+git fetch+git merge
+
+
+no copy pulled by third party from others to be copied for cloning is called as git clone(new local party)-1st tym//
+
+
+git init
+
+git remote add origin "paste link of training"
+
+
+git clone 'origin'
+error//
+
+becz git clone "link"
+
+
+branching merging
+
+git branch dev1(branch name)
+
+git branch
+dev1
+
+
+git checkout dev1
+
+git status 
+
+git add
+
+git commit -m "dev1 first commit"
+
+git push origin dev1
+
+git checkout master
+
+git merge dev1
+
+git push master
+
+
+
+//
+git ignore 
+ignoring the files like images file and vdo files to not upload called as git ignore
+
+git log 
+log options which show what things is used recently
+//
+
+1
+1
+not 1
+False
+not 0
+True
+7&9
+1
+7|9
+15
+7^9
+14
